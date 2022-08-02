@@ -1376,6 +1376,8 @@ MonoBehaviour:
   maxPowerUpAmount: 2
   spawnInterval: 3
   powerUpTemplateList:
+  - {fileID: 1241900826}
+  - {fileID: 1409535603}
   - {fileID: 2130556912}
   boundaryMin: {fileID: 480352928}
   boundaryMax: {fileID: 278148992}
